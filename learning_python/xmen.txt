@@ -1,5 +1,5 @@
 Beast
-Phoenix
+Pheonix
 Cyclops
 Bishop
 Nightcrawler
